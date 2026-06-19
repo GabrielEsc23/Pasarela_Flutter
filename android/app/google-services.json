@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362093714656",
+    "project_id": "flutter-pasarela",
+    "storage_bucket": "flutter-pasarela.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362093714656:android:b112439cdd1008c8170485",
+        "android_client_info": {
+          "package_name": "com.example.demo_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2W3rYw2xgh7DrTIfE-SVCUnyGnPsfO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
