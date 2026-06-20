@@ -53,39 +53,15 @@ Ejemplo de documento almacenado:
 
 ### Pantalla Principal
 
-> Insertar captura aquí
-
-![Pantalla Principal](images/app_01.png)
-
----
-
-### Formulario Completo
-
-> Insertar captura aquí
-
-![Formulario](images/app_02.png)
-
----
+![Pantalla Principal](https://raw.githubusercontent.com/GabrielEsc23/Pasarela_Flutter/main/Capturas_pasarela/pantalla-principal.png)
 
 ### Validaciones del Formulario
 
-> Insertar captura aquí
+![Validaciones](https://raw.githubusercontent.com/GabrielEsc23/Pasarela_Flutter/main/Capturas_pasarela/validaciones.png)
 
-![Validaciones](images/app_03.png)
+### Firebase Firestore
 
----
-
-
-
----
-
-## Capturas de Firebase
-
-### Colección `pagos_simulados`
-
-> Insertar captura aquí
-
-![Colección Firestore](images/firebase_01.png)
+![Firebase](https://raw.githubusercontent.com/GabrielEsc23/Pasarela_Flutter/main/Capturas_pasarela/firbase.png)
 
 ---
 
@@ -148,7 +124,7 @@ dependencies:
 
 ---
 ### Link del APK
-https://epnecuador-my.sharepoint.com/:f:/g/personal/edison_escobar01_epn_edu_ec/IgCfn661amYJTYoSjzwMar8EAVFz4CzKi-5cEnkQAULckpc?e=DPyd69
+##https://epnecuador-my.sharepoint.com/:f:/g/personal/edison_escobar01_epn_edu_ec/IgCfn661amYJTYoSjzwMar8EAVFz4CzKi-5cEnkQAULckpc?e=DPyd69
 ---
 
 ## Autor
